@@ -2,7 +2,7 @@
 |C#|WinForms|
 |--|--|
 
-Simple chat working in LAN, written in C#, Windows Forms
+Prosta aplikacja działająca jako czat w sieci LAN
 
-# Working application:
+# Widok działającej aplikacji:
 ![enter image description here](https://github.com/KonradWasiak/LAN-Chat/blob/master/lanchat.JPG?raw=true)
